@@ -4,7 +4,10 @@ Thanks for visiting my GitHub account!
 
 <img src ="https://www.svgrepo.com/show/331488/mongodb.svg" height = "200px" width = "200px"/> **MongoDB** is a document database. It stores data in a type of JSON format called BSON. Also, **MongoDB** is a source-available, cross-platform, document-oriented database program. Classified as a NoSQL database product, MongoDB utilizes JSON-like documents with optional schemas. [see-more](https://www.w3schools.com/mongodb/)
 
-### [Code-Example](https://github.com/learnwithfair/CSS)
+## CODE EXAMPLE
+
+- [Code-Example1](https://github.com/learnwithfair/mern-ecommerce-with-postman)
+- [Code-Example2](https://github.com/learnwithfair/node-express-documentation)
 
 ## Source Code (Download)
 
@@ -61,12 +64,12 @@ Thanks for visiting my GitHub account!
 7. Create an atlas account. In the atlas account create a cluster that have a user(as atlas admin) and network access with any access IP address.
 8. Connect the database using URL from the atlas cluster or local Mongodb compass using the mongoose package as mongoose. connect('mongodb://localhost:27017/database-name);
 
-## Project Roadmap
+## Project Schema
 
-|                               |
-| :---------------------------: |
-|            Roadmap            |
-| ![roadmap](images/schema.jpg) |
+|                              |
+| :--------------------------: |
+|            Schema            |
+| ![schema](images/schema.jpg) |
 
 ## 0. SQL VS NoSQL
 
